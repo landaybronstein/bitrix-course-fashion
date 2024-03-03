@@ -1,0 +1,6 @@
+/mysql-data
+node_modules
+bitrix
+upload
+.env
+.idea
